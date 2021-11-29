@@ -1,0 +1,10 @@
+{
+    // Internal name shouldn't have colors.
+    "name": "amogus",
+    "displayName": "[red]AMOGUS",
+    "author": "Staticalliam7",
+    "description": "[blue]Texture pack that makes mindustry into amogus for no reason",
+    "version": "0.1 Alpha",
+    "minGameVersion": 121.4,
+    "hidden": true
+}
